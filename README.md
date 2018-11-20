@@ -4,26 +4,21 @@ Artur Henrique Lauth
 UFSC - Blumenau
 _________________________________________________________________________________________
 
-Este È o algortimo feito em MATLAB do trabalho de introduÁ„o a 
-robÛtica industrial.
-
-Este trabalho possui x arquivos para cada funÁ„o.
-Eles s„o:
+Este √© o algortimo feito em MATLAB do trabalho de introdu√ß√£o a 
+rob√≥tica industrial.
 
 
-Kr3init: inicializa os par‚metros do KR3 R540.
-o Kr3fk: recebe como argumento os ‚ngulos das juntas e calcula a cinem·tica
+Kr3init: inicializa os par√¢metros do KR3 R540.
+o Kr3fk: recebe como argumento os √¢ngulos das juntas e calcula a cinem√°tica
 direta.
-o Kr3ik: recebe como argumento a postura do efetuador e calcula a cinem·tica
+o Kr3ik: recebe como argumento a postura do efetuador e calcula a cinem√°tica
 inversa
-o Kr3fj: recebe como argumento a posiÁ„o e a velocidade das juntas, e calcula a
+o Kr3fj: recebe como argumento a posi√ß√£o e a velocidade das juntas, e calcula a
 velocidade no efetuador
-o Kr3ij: recebe como argumento a posiÁ„o das juntas e a velocidade do
+o Kr3ij: recebe como argumento a posi√ß√£o das juntas e a velocidade do
 efetuador, e calcula a velocidade das juntas.
 
-o Example: demonstraÁ„o de utilizaÁ„o das funÁıes
+o Example: demonstra√ß√£o de utiliza√ß√£o das fun√ß√µes
 
 
 Todos os arquivos devem estar abertos no MATLAB para funcionar.
- 
- 
